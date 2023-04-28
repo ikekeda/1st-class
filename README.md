@@ -1,3 +1,4 @@
 # テストリポジトリ
 
-# tanosi-
+# tanosi～
+rubyの勉強
